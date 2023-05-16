@@ -1,6 +1,6 @@
  Создать приведенное в варианте дерево каталогов и файлов с содержимым. В качестве корня дерева использовать каталог lab0 своего домашнего каталога. Для создания и навигации по дереву использовать команды: mkdir, echo, cat, touch, ls, pwd, cd, more, cp, rm, rmdir, mv.
  
-![Image alt](https://github.com/TimTem/FundamentalsofProfessionalActivity/raw/1Lab/1Lab/Iustr.ForLab.png)
+![Image alt](https://github.com/TimTem/FundamentalsofProfessionalActivity/raw/Term№1/1Lab/Iustr.ForLab.png)
 
 2. Установить согласно заданию права на файлы и каталоги при помощи команды chmod, используя различные способы указания прав.
 
