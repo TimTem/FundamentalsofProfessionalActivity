@@ -1,0 +1,28 @@
+cd lab0
+chmod -R u+rx,u-w,g+rwx,o+rw,o-x drifblim3
+cd drifblim3
+chmod u+rw,u-x,g+w,g-rx,o+w,o-rx phanpy.txt
+chmod u+r,u-wx,g+r,g-wx,o-rwx gastrodon.txt
+chmod -R 317 nidoking
+chmod u+rw,u-x,g-rx,g+w,o-rx,o+w glaceon.txt
+chmod u-rwx,g-wx,g+r,o-wx,o+r mankey.txt
+chmod u+r,u-wx,g+r,g-wx,o-rwx vespiquen.txt
+cd -
+chmod u+r,u-wx,g-rwx,o-rwx kabuto7.txt
+chmod u+rw,u-x,g+w,g-rx,o-rwx lillipup1.txt
+chmod -R u+rwx,g+wx,g-r,o+rw,o-x natu8
+cd natu8
+chmod -R 537 lucario
+chmod -R 577 vanilluxe
+chmod -R 736 pineco
+cd -
+chmod -R 311 palpitoad1
+cd palpitoad1
+chmod 444 vulpix.txt
+chmod -R 513 porygonz
+chmod -R 351 weavile
+chmod -R 500 luxray
+chmod -R 753 crustle
+chmod -R 315 magikarp
+cd -
+chmod 640 trapinch4.txt

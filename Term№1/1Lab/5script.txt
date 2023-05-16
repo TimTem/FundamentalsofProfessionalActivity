@@ -1,0 +1,6 @@
+rm lillipup1.txt
+rm ../lab0/drifblim3/mankey.txt
+rm Copy_*
+rm ../lab0/drifblim3/phanpytrapin*
+rm -r ../lab0/natu8/vanilluxe
+rm -R ../lab0/natu8

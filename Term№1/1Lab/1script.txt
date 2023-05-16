@@ -1,0 +1,33 @@
+mkdir lab0
+cd lab0
+mkdir drifblim3
+echo "Возможности Overland=4 Surface=7 Underwater=7 Jump=1 Power=1 Intelligence=2 Gilled=0" > kabuto7.txt
+echo "Живет Grassland Urban" > lillipup1.txt
+mkdir natu8
+mkdir palpitoad1
+echo "Способности Landslide Hyper Cutter Arena Trap" > trapinch4.txt
+cd drifblim3
+echo "Живет Forest Mountain" > phanpy.txt
+echo "Ходы Ancientpower Block
+Brine Dive Earth Power Icy Wind Mud-Slap Pain Split Sleep Talk Snore
+String Shot Whirlpool" > gastrodon.txt
+mkdir nidoking
+echo "Возможности Overland=8 Surface=6
+Jump=3 Power=2 Intelligence=4 Freezer=0 Icestep=0
+Tracker=0" > glaceon.txt
+echo "Тип диеты Omnivore" > mankey.txt
+echo "Живет
+Forest" > vespiquen.txt
+cd - 
+cd natu8
+mkdir lucario
+mkdir vanilluxe
+mkdir pineco
+cd - 
+cd palpitoad1
+echo "Тип покемона FIRE NONE" > vulpix.txt
+mkdir porygonz
+mkdir weavile
+mkdir luxray
+mkdir crustle
+mkdir magikarp

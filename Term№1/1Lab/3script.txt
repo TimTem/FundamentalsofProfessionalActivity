@@ -1,0 +1,12 @@
+cd lab0
+cp lillipup1.txt ../lab0/palpitoad1/magikarp
+cat drifblim3/vespiquen.txt drifblim3/phanpy.txt > lillipup1_96.txt
+chmod -R 777 drifblim3
+ln -s trapinch4 drifblim3/vespiquentrapinch
+chmod -R 777 natu8 
+cp -a natu8 drifblim3/nidoking
+cat lillipup1.txt > palpitoad1/vulpixlillipup
+ln trapinch4.txt drifblim3/phanpytrapinch
+ln -s palpitoad1 Copy_80
+chmod -R u+rx,u-w,g+rwx,o+rw,o-x drifblim3
+chmod -R u+rwx,g+wx,g-r,o+rw,o-x natu8

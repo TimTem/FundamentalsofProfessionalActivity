@@ -1,0 +1,7 @@
+(cat **/*1 | wc -l | sort -n)2>>../tmp
+(ls -lR | sort -nk 2 | grep 'o$') 2>/dev/null
+(cat **/*p 2> /dev/null | sort -r |cat -n)
+(cat **/*o |wc -l )>../tmp
+(ls -lRrt 2>>../tmp | grep *to* | head -n 3 | sort -n -k 2 -r)
+(cat l* |sort)
+
